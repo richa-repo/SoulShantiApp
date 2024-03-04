@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811159242266",
+    "project_id": "soulshanti-3b81d",
+    "storage_bucket": "soulshanti-3b81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811159242266:android:8fed94b13486d9fee433a3",
+        "android_client_info": {
+          "package_name": "com.example.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKuSMXtPZ9hd0vkF3l-O8pIcgWTx2Zm7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
